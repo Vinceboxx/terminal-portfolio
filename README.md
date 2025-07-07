@@ -2,6 +2,16 @@
 
 A modern, interactive terminal-style portfolio website with a sleek design and smooth animations.
 
+## 🌐 Live Demo
+
+Check out the live demo: **[https://vinceboxx.github.io/terminal-portfolio/](https://vinceboxx.github.io/terminal-portfolio/)**
+
+## 📸 Screenshot
+
+![Terminal Portfolio Screenshot](screenshot.png)
+
+*Interactive terminal interface with command-line navigation*
+
 ## Features
 
 - **Terminal Interface**: Interactive terminal simulation with command-line interface
